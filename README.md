@@ -3,10 +3,7 @@
 💻 Desenvolvedor **Backend em formação**  
 🎓 Técnico em Informática  
 📍 Pernambuco → Paraíba  
-🐍 Focado em **Python**, APIs e Redes  
-
-Sou apaixonado por tecnologia e desenvolvimento backend.  
-Atualmente estudo **Python, Redes TCP/IP, APIs REST e Banco de Dados**, sempre buscando evoluir com projetos práticos.
+🐍 Focado em **Python**, APIs | Analise-de-dados | Redes   
 
 ---
 
@@ -31,17 +28,6 @@ Atualmente estudo **Python, Redes TCP/IP, APIs REST e Banco de Dados**, sempre b
 </div>
 
 ---
-
-## 🧠 O que estou aprendendo agora
-
-- 🔹 Python avançado (POO, APIs, automação)
-- 🔹 Redes TCP/IP e fundamentos de servidores
-- 🔹 Git e GitHub na prática
-- 🔹 Lógica e estrutura de dados
-
----
-
-👉 Confira meus repositórios abaixo ⬇️
 
 ---
 
