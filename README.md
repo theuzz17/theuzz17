@@ -3,7 +3,7 @@
 💻 Desenvolvedor **Backend em formação**  
 🎓 Técnico em Informática  
 📍 Pernambuco → Paraíba  
-🐍 Focado em **Python**, APIs | Analise-de-dados | Redes   
+🐍**Python**, APIs | Analise-de-dados | Redes   
 
 ---
 
