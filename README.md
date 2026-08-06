@@ -34,6 +34,6 @@
 ## 📫 Contato
 
 - 💼 GitHub: https://github.com/theuzz17  
-- 📧 Email: matheuslimadearaujo179@gmail.com  
+- 📧 Email: matheuslimadearaujo7@gmail.com  
 
 ⭐ Sempre aberto a aprender, evoluir e colaborar!
